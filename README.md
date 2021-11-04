@@ -1,2 +1,6 @@
-# deep-learning-for-fun
+# Deep Learning for Fun
+
 Creating fun deep learning application
+
+
+I will use PyTorch to build some fun projects in here
